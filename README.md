@@ -13,7 +13,7 @@ The Subscription Management Microservices is a set of microservices built using 
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/subscription-management-microservices.git
+git clone https://github.com/poojapatil16-github/subscription-microservice.git
 ```
 
 2. Install dependencies.
